@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4bLT7B8u0JcR6GjwouRmQ1dD2rX4CUAh5EL7Q2amLOXngUaR6I/eRnQ1Nvihy3/eYHa7TrwmM+eyLAzLYOXHeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bodja_n\\source\\repos\\ToDoList\\ToDoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bodja_n\\.nuget\\packages\\npgsql\\5.0.7\\npgsql.5.0.7.nupkg.sha512",
+    "C:\\Users\\Bodja_n\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

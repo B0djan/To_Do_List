@@ -1,0 +1,6 @@
+C:\Users\Bodja_n\source\repos\ToDoList\bin\Release\net5.0\publish\ToDoList.exe
+C:\Users\Bodja_n\source\repos\ToDoList\bin\Release\net5.0\publish\ToDoList.dll
+C:\Users\Bodja_n\source\repos\ToDoList\bin\Release\net5.0\publish\ToDoList.deps.json
+C:\Users\Bodja_n\source\repos\ToDoList\bin\Release\net5.0\publish\ToDoList.runtimeconfig.json
+C:\Users\Bodja_n\source\repos\ToDoList\bin\Release\net5.0\publish\ToDoList.pdb
+C:\Users\Bodja_n\source\repos\ToDoList\bin\Release\net5.0\publish\Npgsql.dll

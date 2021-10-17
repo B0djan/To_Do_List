@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zKepVglmgMficHi/uYD9k9VSYdrE8toeOTi4pY1M8QX3ioMy+qwMp25e4+ZK2fdni1IJWq+1pym7dbm3MJ0FGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bodja_n\\source\\repos\\ToDoList\\ToDoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bodja_n\\.nuget\\packages\\npgsql\\5.0.7\\npgsql.5.0.7.nupkg.sha512",
+    "C:\\Users\\Bodja_n\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\Bodja_n\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\5.0.8\\microsoft.netcore.app.runtime.osx-x64.5.0.8.nupkg.sha512",
+    "C:\\Users\\Bodja_n\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\5.0.8\\microsoft.aspnetcore.app.runtime.osx-x64.5.0.8.nupkg.sha512",
+    "C:\\Users\\Bodja_n\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\5.0.8\\microsoft.netcore.app.host.osx-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
